@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 10\For exer 10\bin\Debug\net10.0\For exer 10.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 10\For exer 10\bin\Debug\net10.0\For exer 10.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 10\For exer 10\bin\Debug\net10.0\For exer 10.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 10\For exer 10\bin\Debug\net10.0\For exer 10.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 10\For exer 10\bin\Debug\net10.0\For exer 10.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 10\For exer 10\obj\Debug\net10.0\For exer 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 10\For exer 10\obj\Debug\net10.0\For exer 10.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 10\For exer 10\obj\Debug\net10.0\For exer 10.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 10\For exer 10\obj\Debug\net10.0\For exer 10.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 10\For exer 10\obj\Debug\net10.0\For exer 10.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 10\For exer 10\obj\Debug\net10.0\For exer 10.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 10\For exer 10\obj\Debug\net10.0\refint\For exer 10.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 10\For exer 10\obj\Debug\net10.0\For exer 10.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 10\For exer 10\obj\Debug\net10.0\For exer 10.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 10\For exer 10\obj\Debug\net10.0\ref\For exer 10.dll
