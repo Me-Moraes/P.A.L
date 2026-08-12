@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 9\For exer 9\bin\Debug\net10.0\For exer 9.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 9\For exer 9\bin\Debug\net10.0\For exer 9.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 9\For exer 9\bin\Debug\net10.0\For exer 9.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 9\For exer 9\bin\Debug\net10.0\For exer 9.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 9\For exer 9\bin\Debug\net10.0\For exer 9.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 9\For exer 9\obj\Debug\net10.0\For exer 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 9\For exer 9\obj\Debug\net10.0\For exer 9.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 9\For exer 9\obj\Debug\net10.0\For exer 9.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 9\For exer 9\obj\Debug\net10.0\For exer 9.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 9\For exer 9\obj\Debug\net10.0\For exer 9.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 9\For exer 9\obj\Debug\net10.0\For exer 9.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 9\For exer 9\obj\Debug\net10.0\refint\For exer 9.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 9\For exer 9\obj\Debug\net10.0\For exer 9.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 9\For exer 9\obj\Debug\net10.0\For exer 9.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 9\For exer 9\obj\Debug\net10.0\ref\For exer 9.dll
