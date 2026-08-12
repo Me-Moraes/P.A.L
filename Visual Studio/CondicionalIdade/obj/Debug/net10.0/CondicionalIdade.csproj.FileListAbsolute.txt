@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalIdade\bin\Debug\net10.0\CondicionalIdade.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalIdade\bin\Debug\net10.0\CondicionalIdade.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalIdade\bin\Debug\net10.0\CondicionalIdade.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalIdade\bin\Debug\net10.0\CondicionalIdade.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalIdade\bin\Debug\net10.0\CondicionalIdade.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalIdade\obj\Debug\net10.0\CondicionalIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalIdade\obj\Debug\net10.0\CondicionalIdade.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalIdade\obj\Debug\net10.0\CondicionalIdade.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalIdade\obj\Debug\net10.0\CondicionalIdade.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalIdade\obj\Debug\net10.0\CondicionalIdade.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalIdade\obj\Debug\net10.0\refint\CondicionalIdade.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalIdade\obj\Debug\net10.0\CondicionalIdade.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalIdade\obj\Debug\net10.0\CondicionalIdade.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalIdade\obj\Debug\net10.0\ref\CondicionalIdade.dll

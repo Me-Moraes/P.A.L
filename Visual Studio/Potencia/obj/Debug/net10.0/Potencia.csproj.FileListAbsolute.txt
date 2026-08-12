@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Potencia\bin\Debug\net10.0\Potencia.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Potencia\bin\Debug\net10.0\Potencia.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Potencia\bin\Debug\net10.0\Potencia.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Potencia\bin\Debug\net10.0\Potencia.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Potencia\bin\Debug\net10.0\Potencia.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Potencia\obj\Debug\net10.0\Potencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Potencia\obj\Debug\net10.0\Potencia.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Potencia\obj\Debug\net10.0\Potencia.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Potencia\obj\Debug\net10.0\Potencia.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Potencia\obj\Debug\net10.0\Potencia.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Potencia\obj\Debug\net10.0\refint\Potencia.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Potencia\obj\Debug\net10.0\Potencia.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Potencia\obj\Debug\net10.0\Potencia.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Potencia\obj\Debug\net10.0\ref\Potencia.dll

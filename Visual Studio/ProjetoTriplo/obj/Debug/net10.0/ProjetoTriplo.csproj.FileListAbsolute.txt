@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoTriplo\obj\Debug\net10.0\ProjetoTriplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoTriplo\obj\Debug\net10.0\ProjetoTriplo.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoTriplo\obj\Debug\net10.0\ProjetoTriplo.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoTriplo\obj\Debug\net10.0\ProjetoTriplo.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoTriplo\bin\Debug\net10.0\ProjetoTriplo.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoTriplo\bin\Debug\net10.0\ProjetoTriplo.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoTriplo\bin\Debug\net10.0\ProjetoTriplo.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoTriplo\bin\Debug\net10.0\ProjetoTriplo.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoTriplo\bin\Debug\net10.0\ProjetoTriplo.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoTriplo\obj\Debug\net10.0\ProjetoTriplo.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoTriplo\obj\Debug\net10.0\refint\ProjetoTriplo.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoTriplo\obj\Debug\net10.0\ProjetoTriplo.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoTriplo\obj\Debug\net10.0\ProjetoTriplo.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoTriplo\obj\Debug\net10.0\ref\ProjetoTriplo.dll

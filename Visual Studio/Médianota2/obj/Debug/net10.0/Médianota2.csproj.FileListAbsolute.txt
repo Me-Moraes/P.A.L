@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Médianota2\bin\Debug\net10.0\Médianota2.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Médianota2\bin\Debug\net10.0\Médianota2.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Médianota2\bin\Debug\net10.0\Médianota2.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Médianota2\bin\Debug\net10.0\Médianota2.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Médianota2\bin\Debug\net10.0\Médianota2.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Médianota2\obj\Debug\net10.0\Médianota2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Médianota2\obj\Debug\net10.0\Médianota2.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Médianota2\obj\Debug\net10.0\Médianota2.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Médianota2\obj\Debug\net10.0\Médianota2.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Médianota2\obj\Debug\net10.0\Médianota2.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Médianota2\obj\Debug\net10.0\refint\Médianota2.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Médianota2\obj\Debug\net10.0\Médianota2.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Médianota2\obj\Debug\net10.0\Médianota2.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Médianota2\obj\Debug\net10.0\ref\Médianota2.dll

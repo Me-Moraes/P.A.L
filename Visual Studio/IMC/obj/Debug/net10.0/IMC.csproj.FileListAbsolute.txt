@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\IMC\bin\Debug\net10.0\IMC.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\IMC\bin\Debug\net10.0\IMC.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\IMC\bin\Debug\net10.0\IMC.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\IMC\bin\Debug\net10.0\IMC.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\IMC\bin\Debug\net10.0\IMC.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\IMC\obj\Debug\net10.0\IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\IMC\obj\Debug\net10.0\IMC.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\IMC\obj\Debug\net10.0\IMC.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\IMC\obj\Debug\net10.0\IMC.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\IMC\obj\Debug\net10.0\IMC.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\IMC\obj\Debug\net10.0\refint\IMC.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\IMC\obj\Debug\net10.0\IMC.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\IMC\obj\Debug\net10.0\IMC.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\IMC\obj\Debug\net10.0\ref\IMC.dll

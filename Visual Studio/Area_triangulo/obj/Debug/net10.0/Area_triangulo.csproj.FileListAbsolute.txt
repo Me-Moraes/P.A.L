@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_triangulo\bin\Debug\net10.0\Area_triangulo.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_triangulo\bin\Debug\net10.0\Area_triangulo.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_triangulo\bin\Debug\net10.0\Area_triangulo.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_triangulo\bin\Debug\net10.0\Area_triangulo.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_triangulo\bin\Debug\net10.0\Area_triangulo.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_triangulo\obj\Debug\net10.0\Area_triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_triangulo\obj\Debug\net10.0\Area_triangulo.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_triangulo\obj\Debug\net10.0\Area_triangulo.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_triangulo\obj\Debug\net10.0\Area_triangulo.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_triangulo\obj\Debug\net10.0\Area_triangulo.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_triangulo\obj\Debug\net10.0\refint\Area_triangulo.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_triangulo\obj\Debug\net10.0\Area_triangulo.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_triangulo\obj\Debug\net10.0\Area_triangulo.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_triangulo\obj\Debug\net10.0\ref\Area_triangulo.dll

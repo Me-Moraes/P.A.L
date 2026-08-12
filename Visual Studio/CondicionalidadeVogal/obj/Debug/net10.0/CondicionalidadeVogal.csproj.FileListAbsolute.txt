@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalidadeVogal\bin\Debug\net10.0\CondicionalidadeVogal.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalidadeVogal\bin\Debug\net10.0\CondicionalidadeVogal.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalidadeVogal\bin\Debug\net10.0\CondicionalidadeVogal.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalidadeVogal\bin\Debug\net10.0\CondicionalidadeVogal.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalidadeVogal\bin\Debug\net10.0\CondicionalidadeVogal.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalidadeVogal\obj\Debug\net10.0\CondicionalidadeVogal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalidadeVogal\obj\Debug\net10.0\CondicionalidadeVogal.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalidadeVogal\obj\Debug\net10.0\CondicionalidadeVogal.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalidadeVogal\obj\Debug\net10.0\CondicionalidadeVogal.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalidadeVogal\obj\Debug\net10.0\CondicionalidadeVogal.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalidadeVogal\obj\Debug\net10.0\refint\CondicionalidadeVogal.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalidadeVogal\obj\Debug\net10.0\CondicionalidadeVogal.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalidadeVogal\obj\Debug\net10.0\CondicionalidadeVogal.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalidadeVogal\obj\Debug\net10.0\ref\CondicionalidadeVogal.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CNH\bin\Debug\net10.0\CNH.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CNH\bin\Debug\net10.0\CNH.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CNH\bin\Debug\net10.0\CNH.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CNH\bin\Debug\net10.0\CNH.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CNH\bin\Debug\net10.0\CNH.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CNH\obj\Debug\net10.0\CNH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CNH\obj\Debug\net10.0\CNH.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CNH\obj\Debug\net10.0\CNH.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CNH\obj\Debug\net10.0\CNH.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CNH\obj\Debug\net10.0\CNH.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CNH\obj\Debug\net10.0\refint\CNH.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CNH\obj\Debug\net10.0\CNH.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CNH\obj\Debug\net10.0\CNH.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CNH\obj\Debug\net10.0\ref\CNH.dll

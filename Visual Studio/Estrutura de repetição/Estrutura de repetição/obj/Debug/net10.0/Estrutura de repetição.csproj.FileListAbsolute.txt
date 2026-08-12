@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\Estrutura de repetição\Estrutura de repetição\bin\Debug\net10.0\Estrutura de repetição.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\Estrutura de repetição\Estrutura de repetição\bin\Debug\net10.0\Estrutura de repetição.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\Estrutura de repetição\Estrutura de repetição\bin\Debug\net10.0\Estrutura de repetição.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\Estrutura de repetição\Estrutura de repetição\bin\Debug\net10.0\Estrutura de repetição.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\Estrutura de repetição\Estrutura de repetição\bin\Debug\net10.0\Estrutura de repetição.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\Estrutura de repetição\Estrutura de repetição\obj\Debug\net10.0\Estrutura de repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\Estrutura de repetição\Estrutura de repetição\obj\Debug\net10.0\Estrutura de repetição.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\Estrutura de repetição\Estrutura de repetição\obj\Debug\net10.0\Estrutura de repetição.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\Estrutura de repetição\Estrutura de repetição\obj\Debug\net10.0\Estrutura de repetição.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\Estrutura de repetição\Estrutura de repetição\obj\Debug\net10.0\Estrutura de repetição.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\Estrutura de repetição\Estrutura de repetição\obj\Debug\net10.0\refint\Estrutura de repetição.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\Estrutura de repetição\Estrutura de repetição\obj\Debug\net10.0\Estrutura de repetição.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\Estrutura de repetição\Estrutura de repetição\obj\Debug\net10.0\Estrutura de repetição.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\Estrutura de repetição\Estrutura de repetição\obj\Debug\net10.0\ref\Estrutura de repetição.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FilaPrioridade\bin\Debug\net10.0\FilaPrioridade.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FilaPrioridade\bin\Debug\net10.0\FilaPrioridade.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FilaPrioridade\bin\Debug\net10.0\FilaPrioridade.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FilaPrioridade\bin\Debug\net10.0\FilaPrioridade.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FilaPrioridade\bin\Debug\net10.0\FilaPrioridade.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FilaPrioridade\obj\Debug\net10.0\FilaPrioridade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FilaPrioridade\obj\Debug\net10.0\FilaPrioridade.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FilaPrioridade\obj\Debug\net10.0\FilaPrioridade.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FilaPrioridade\obj\Debug\net10.0\FilaPrioridade.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FilaPrioridade\obj\Debug\net10.0\FilaPrioridade.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FilaPrioridade\obj\Debug\net10.0\refint\FilaPrioridade.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FilaPrioridade\obj\Debug\net10.0\FilaPrioridade.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FilaPrioridade\obj\Debug\net10.0\FilaPrioridade.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FilaPrioridade\obj\Debug\net10.0\ref\FilaPrioridade.dll

@@ -1,0 +1,4 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalExemplo\obj\Debug\net10.0\CondicionalExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalExemplo\obj\Debug\net10.0\CondicionalExemplo.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalExemplo\obj\Debug\net10.0\CondicionalExemplo.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\CondicionalExemplo\obj\Debug\net10.0\CondicionalExemplo.csproj.CoreCompileInputs.cache

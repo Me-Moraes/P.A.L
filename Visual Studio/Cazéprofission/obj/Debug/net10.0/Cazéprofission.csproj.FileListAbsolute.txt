@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Cazéprofission\bin\Debug\net10.0\Cazéprofission.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Cazéprofission\bin\Debug\net10.0\Cazéprofission.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Cazéprofission\bin\Debug\net10.0\Cazéprofission.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Cazéprofission\bin\Debug\net10.0\Cazéprofission.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Cazéprofission\bin\Debug\net10.0\Cazéprofission.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Cazéprofission\obj\Debug\net10.0\Cazéprofission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Cazéprofission\obj\Debug\net10.0\Cazéprofission.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Cazéprofission\obj\Debug\net10.0\Cazéprofission.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Cazéprofission\obj\Debug\net10.0\Cazéprofission.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Cazéprofission\obj\Debug\net10.0\Cazéprofission.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Cazéprofission\obj\Debug\net10.0\refint\Cazéprofission.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Cazéprofission\obj\Debug\net10.0\Cazéprofission.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Cazéprofission\obj\Debug\net10.0\Cazéprofission.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Cazéprofission\obj\Debug\net10.0\ref\Cazéprofission.dll

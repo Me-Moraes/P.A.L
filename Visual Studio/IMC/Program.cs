@@ -1,0 +1,10 @@
+﻿double p, a, imc;
+string n;
+Console.WriteLine("Escreva o seu nome");
+n = Console.ReadLine();
+Console.WriteLine("DIgite a sua altura");
+a = double.Parse(Console.ReadLine());
+Console.WriteLine("DIgite a seu peso");
+p = double.Parse(Console.ReadLine());
+imc = p / Math.Pow(a, 2);
+Console.WriteLine("Seu imc é de " + imc);

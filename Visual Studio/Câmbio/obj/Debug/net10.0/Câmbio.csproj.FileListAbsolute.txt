@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Câmbio\bin\Debug\net10.0\Câmbio.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Câmbio\bin\Debug\net10.0\Câmbio.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Câmbio\bin\Debug\net10.0\Câmbio.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Câmbio\bin\Debug\net10.0\Câmbio.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Câmbio\bin\Debug\net10.0\Câmbio.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Câmbio\obj\Debug\net10.0\Câmbio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Câmbio\obj\Debug\net10.0\Câmbio.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Câmbio\obj\Debug\net10.0\Câmbio.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Câmbio\obj\Debug\net10.0\Câmbio.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Câmbio\obj\Debug\net10.0\Câmbio.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Câmbio\obj\Debug\net10.0\refint\Câmbio.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Câmbio\obj\Debug\net10.0\Câmbio.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Câmbio\obj\Debug\net10.0\Câmbio.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Câmbio\obj\Debug\net10.0\ref\Câmbio.dll

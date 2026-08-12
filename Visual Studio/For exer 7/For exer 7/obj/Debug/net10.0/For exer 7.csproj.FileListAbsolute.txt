@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 7\For exer 7\obj\Debug\net10.0\For exer 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 7\For exer 7\obj\Debug\net10.0\For exer 7.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 7\For exer 7\obj\Debug\net10.0\For exer 7.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 7\For exer 7\obj\Debug\net10.0\For exer 7.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 7\For exer 7\bin\Debug\net10.0\For exer 7.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 7\For exer 7\bin\Debug\net10.0\For exer 7.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 7\For exer 7\bin\Debug\net10.0\For exer 7.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 7\For exer 7\bin\Debug\net10.0\For exer 7.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 7\For exer 7\bin\Debug\net10.0\For exer 7.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 7\For exer 7\obj\Debug\net10.0\For exer 7.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 7\For exer 7\obj\Debug\net10.0\refint\For exer 7.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 7\For exer 7\obj\Debug\net10.0\For exer 7.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 7\For exer 7\obj\Debug\net10.0\For exer 7.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 7\For exer 7\obj\Debug\net10.0\ref\For exer 7.dll

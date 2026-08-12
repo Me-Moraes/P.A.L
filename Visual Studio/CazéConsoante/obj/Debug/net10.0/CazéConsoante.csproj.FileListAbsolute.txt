@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CazéConsoante\bin\Debug\net10.0\CazéConsoante.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CazéConsoante\bin\Debug\net10.0\CazéConsoante.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CazéConsoante\bin\Debug\net10.0\CazéConsoante.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CazéConsoante\bin\Debug\net10.0\CazéConsoante.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CazéConsoante\bin\Debug\net10.0\CazéConsoante.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CazéConsoante\obj\Debug\net10.0\CazéConsoante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CazéConsoante\obj\Debug\net10.0\CazéConsoante.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CazéConsoante\obj\Debug\net10.0\CazéConsoante.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CazéConsoante\obj\Debug\net10.0\CazéConsoante.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CazéConsoante\obj\Debug\net10.0\CazéConsoante.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CazéConsoante\obj\Debug\net10.0\refint\CazéConsoante.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CazéConsoante\obj\Debug\net10.0\CazéConsoante.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CazéConsoante\obj\Debug\net10.0\CazéConsoante.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CazéConsoante\obj\Debug\net10.0\ref\CazéConsoante.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Funcao_horaria\bin\Debug\net10.0\Funcao_horaria.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Funcao_horaria\bin\Debug\net10.0\Funcao_horaria.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Funcao_horaria\bin\Debug\net10.0\Funcao_horaria.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Funcao_horaria\bin\Debug\net10.0\Funcao_horaria.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Funcao_horaria\bin\Debug\net10.0\Funcao_horaria.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Funcao_horaria\obj\Debug\net10.0\Funcao_horaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Funcao_horaria\obj\Debug\net10.0\Funcao_horaria.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Funcao_horaria\obj\Debug\net10.0\Funcao_horaria.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Funcao_horaria\obj\Debug\net10.0\Funcao_horaria.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Funcao_horaria\obj\Debug\net10.0\Funcao_horaria.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Funcao_horaria\obj\Debug\net10.0\refint\Funcao_horaria.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Funcao_horaria\obj\Debug\net10.0\Funcao_horaria.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Funcao_horaria\obj\Debug\net10.0\Funcao_horaria.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Funcao_horaria\obj\Debug\net10.0\ref\Funcao_horaria.dll

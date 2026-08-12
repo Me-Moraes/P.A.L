@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoSoma\bin\Debug\net10.0\ProjetoSoma.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoSoma\bin\Debug\net10.0\ProjetoSoma.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoSoma\bin\Debug\net10.0\ProjetoSoma.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoSoma\bin\Debug\net10.0\ProjetoSoma.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoSoma\bin\Debug\net10.0\ProjetoSoma.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoSoma\obj\Debug\net10.0\ProjetoSoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoSoma\obj\Debug\net10.0\ProjetoSoma.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoSoma\obj\Debug\net10.0\ProjetoSoma.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoSoma\obj\Debug\net10.0\ProjetoSoma.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoSoma\obj\Debug\net10.0\ProjetoSoma.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoSoma\obj\Debug\net10.0\refint\ProjetoSoma.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoSoma\obj\Debug\net10.0\ProjetoSoma.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoSoma\obj\Debug\net10.0\ProjetoSoma.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoSoma\obj\Debug\net10.0\ref\ProjetoSoma.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\SistemaAvaliacao\bin\Debug\net10.0\SistemaAvaliacao.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\SistemaAvaliacao\bin\Debug\net10.0\SistemaAvaliacao.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\SistemaAvaliacao\bin\Debug\net10.0\SistemaAvaliacao.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\SistemaAvaliacao\bin\Debug\net10.0\SistemaAvaliacao.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\SistemaAvaliacao\bin\Debug\net10.0\SistemaAvaliacao.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\SistemaAvaliacao\obj\Debug\net10.0\SistemaAvaliacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\SistemaAvaliacao\obj\Debug\net10.0\SistemaAvaliacao.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\SistemaAvaliacao\obj\Debug\net10.0\SistemaAvaliacao.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\SistemaAvaliacao\obj\Debug\net10.0\SistemaAvaliacao.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\SistemaAvaliacao\obj\Debug\net10.0\SistemaAvaliacao.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\SistemaAvaliacao\obj\Debug\net10.0\refint\SistemaAvaliacao.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\SistemaAvaliacao\obj\Debug\net10.0\SistemaAvaliacao.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\SistemaAvaliacao\obj\Debug\net10.0\SistemaAvaliacao.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\SistemaAvaliacao\obj\Debug\net10.0\ref\SistemaAvaliacao.dll

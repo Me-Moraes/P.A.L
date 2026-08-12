@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoMobrau\bin\Debug\net10.0\ProjetoMobrau.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoMobrau\bin\Debug\net10.0\ProjetoMobrau.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoMobrau\bin\Debug\net10.0\ProjetoMobrau.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoMobrau\bin\Debug\net10.0\ProjetoMobrau.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoMobrau\bin\Debug\net10.0\ProjetoMobrau.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoMobrau\obj\Debug\net10.0\ProjetoMobrau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoMobrau\obj\Debug\net10.0\ProjetoMobrau.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoMobrau\obj\Debug\net10.0\ProjetoMobrau.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoMobrau\obj\Debug\net10.0\ProjetoMobrau.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoMobrau\obj\Debug\net10.0\ProjetoMobrau.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoMobrau\obj\Debug\net10.0\refint\ProjetoMobrau.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoMobrau\obj\Debug\net10.0\ProjetoMobrau.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoMobrau\obj\Debug\net10.0\ProjetoMobrau.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\ProjetoMobrau\obj\Debug\net10.0\ref\ProjetoMobrau.dll

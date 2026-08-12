@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\VolumeCilindro\bin\Debug\net10.0\VolumeCilindro.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\VolumeCilindro\bin\Debug\net10.0\VolumeCilindro.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\VolumeCilindro\bin\Debug\net10.0\VolumeCilindro.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\VolumeCilindro\bin\Debug\net10.0\VolumeCilindro.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\VolumeCilindro\bin\Debug\net10.0\VolumeCilindro.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\VolumeCilindro\obj\Debug\net10.0\VolumeCilindro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\VolumeCilindro\obj\Debug\net10.0\VolumeCilindro.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\VolumeCilindro\obj\Debug\net10.0\VolumeCilindro.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\VolumeCilindro\obj\Debug\net10.0\VolumeCilindro.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\VolumeCilindro\obj\Debug\net10.0\VolumeCilindro.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\VolumeCilindro\obj\Debug\net10.0\refint\VolumeCilindro.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\VolumeCilindro\obj\Debug\net10.0\VolumeCilindro.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\VolumeCilindro\obj\Debug\net10.0\VolumeCilindro.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\VolumeCilindro\obj\Debug\net10.0\ref\VolumeCilindro.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\4equacoes\bin\Debug\net10.0\4equacoes.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\4equacoes\bin\Debug\net10.0\4equacoes.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\4equacoes\bin\Debug\net10.0\4equacoes.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\4equacoes\bin\Debug\net10.0\4equacoes.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\4equacoes\bin\Debug\net10.0\4equacoes.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\4equacoes\obj\Debug\net10.0\4equacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\4equacoes\obj\Debug\net10.0\4equacoes.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\4equacoes\obj\Debug\net10.0\4equacoes.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\4equacoes\obj\Debug\net10.0\4equacoes.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\4equacoes\obj\Debug\net10.0\4equacoes.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\4equacoes\obj\Debug\net10.0\refint\4equacoes.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\4equacoes\obj\Debug\net10.0\4equacoes.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\4equacoes\obj\Debug\net10.0\4equacoes.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\4equacoes\obj\Debug\net10.0\ref\4equacoes.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Aposentadoria\obj\Debug\net10.0\Aposentadoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Aposentadoria\obj\Debug\net10.0\Aposentadoria.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Aposentadoria\obj\Debug\net10.0\Aposentadoria.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Aposentadoria\obj\Debug\net10.0\Aposentadoria.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Aposentadoria\bin\Debug\net10.0\Aposentadoria.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Aposentadoria\bin\Debug\net10.0\Aposentadoria.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Aposentadoria\bin\Debug\net10.0\Aposentadoria.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Aposentadoria\bin\Debug\net10.0\Aposentadoria.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Aposentadoria\bin\Debug\net10.0\Aposentadoria.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Aposentadoria\obj\Debug\net10.0\Aposentadoria.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Aposentadoria\obj\Debug\net10.0\refint\Aposentadoria.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Aposentadoria\obj\Debug\net10.0\Aposentadoria.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Aposentadoria\obj\Debug\net10.0\Aposentadoria.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\Aposentadoria\obj\Debug\net10.0\ref\Aposentadoria.dll

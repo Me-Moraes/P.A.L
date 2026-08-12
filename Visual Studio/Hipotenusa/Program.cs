@@ -1,0 +1,11 @@
+﻿double h, co, s, ca, c, t;
+Console.WriteLine("Defina a hipotenusa");
+h = double.Parse(Console.ReadLine());
+Console.WriteLine("Defina o cateto oposto");
+co = double.Parse(Console.ReadLine());
+Console.WriteLine("Defina o cateto adjacente");
+ca = double.Parse(Console.ReadLine());
+s = co / h;
+c = ca / h;
+t = co / ca;
+Console.WriteLine("O resultado do seno é " + s + ", o resultado do cosseno é " + c + ", o resultado da tangente é " + t);

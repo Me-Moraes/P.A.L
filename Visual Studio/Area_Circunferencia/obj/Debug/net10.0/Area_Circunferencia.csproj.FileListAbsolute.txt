@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_Circunferencia\obj\Debug\net10.0\Area_Circunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_Circunferencia\obj\Debug\net10.0\Area_Circunferencia.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_Circunferencia\obj\Debug\net10.0\Area_Circunferencia.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_Circunferencia\obj\Debug\net10.0\Area_Circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_Circunferencia\bin\Debug\net10.0\Area_Circunferencia.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_Circunferencia\bin\Debug\net10.0\Area_Circunferencia.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_Circunferencia\bin\Debug\net10.0\Area_Circunferencia.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_Circunferencia\bin\Debug\net10.0\Area_Circunferencia.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_Circunferencia\bin\Debug\net10.0\Area_Circunferencia.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_Circunferencia\obj\Debug\net10.0\Area_Circunferencia.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_Circunferencia\obj\Debug\net10.0\refint\Area_Circunferencia.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_Circunferencia\obj\Debug\net10.0\Area_Circunferencia.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_Circunferencia\obj\Debug\net10.0\Area_Circunferencia.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Area_Circunferencia\obj\Debug\net10.0\ref\Area_Circunferencia.dll

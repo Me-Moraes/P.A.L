@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\ComparaçãopPeso2\bin\Debug\net10.0\ComparaçãopPeso2.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\ComparaçãopPeso2\bin\Debug\net10.0\ComparaçãopPeso2.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\ComparaçãopPeso2\bin\Debug\net10.0\ComparaçãopPeso2.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\ComparaçãopPeso2\bin\Debug\net10.0\ComparaçãopPeso2.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\ComparaçãopPeso2\bin\Debug\net10.0\ComparaçãopPeso2.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\ComparaçãopPeso2\obj\Debug\net10.0\ComparaçãopPeso2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\ComparaçãopPeso2\obj\Debug\net10.0\ComparaçãopPeso2.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\ComparaçãopPeso2\obj\Debug\net10.0\ComparaçãopPeso2.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\ComparaçãopPeso2\obj\Debug\net10.0\ComparaçãopPeso2.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\ComparaçãopPeso2\obj\Debug\net10.0\ComparaçãopPeso2.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\ComparaçãopPeso2\obj\Debug\net10.0\refint\ComparaçãopPeso2.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\ComparaçãopPeso2\obj\Debug\net10.0\ComparaçãopPeso2.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\ComparaçãopPeso2\obj\Debug\net10.0\ComparaçãopPeso2.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\ComparaçãopPeso2\obj\Debug\net10.0\ref\ComparaçãopPeso2.dll

@@ -1,0 +1,13 @@
+﻿double n1, n2, a, s, m, d;
+Console.WriteLine("Digite o primeiro número: ");
+n1 = double.Parse(Console.ReadLine());
+Console.WriteLine("Digite o segundo número: ");
+n2 = double.Parse(Console.ReadLine());
+a = n1 + n2;
+s = n1 - n2;
+m = n1 * n2;
+d = n1 / n2;
+Console.WriteLine("O reultado da soma é: " + a);
+Console.WriteLine("O reultado da subtração é: " + s);
+Console.WriteLine("O reultado da multiplicação é: " + m);
+Console.WriteLine("O reultado da divisão é: " + d);

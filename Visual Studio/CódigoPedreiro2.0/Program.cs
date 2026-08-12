@@ -1,0 +1,14 @@
+﻿double laa, lba, aa, lap, lbp, ap, qt;
+Console.WriteLine("Digite o lado A do azulejo: ");
+laa = double.Parse(Console.ReadLine());
+Console.WriteLine("Digite o lado B do azulejo: ");
+lba = double.Parse(Console.ReadLine());
+Console.WriteLine("Digite o lado A da parede: ");
+lap = double.Parse(Console.ReadLine());
+Console.WriteLine("Digite o lado B da parede: ");
+lbp = double.Parse(Console.ReadLine());
+aa = laa * lba;
+ap = lap * lbp;
+qt = ap / aa;
+Console.WriteLine("A área dos azulejos é " + aa + ", já a área da parede é " + ap);
+Console.WriteLine("A quantidade exata de azulejos necessários é: " + qt);

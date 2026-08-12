@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalPositivo\obj\Debug\net10.0\CondicionalPositivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalPositivo\obj\Debug\net10.0\CondicionalPositivo.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalPositivo\obj\Debug\net10.0\CondicionalPositivo.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalPositivo\obj\Debug\net10.0\CondicionalPositivo.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalPositivo\bin\Debug\net10.0\CondicionalPositivo.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalPositivo\bin\Debug\net10.0\CondicionalPositivo.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalPositivo\bin\Debug\net10.0\CondicionalPositivo.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalPositivo\bin\Debug\net10.0\CondicionalPositivo.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalPositivo\bin\Debug\net10.0\CondicionalPositivo.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalPositivo\obj\Debug\net10.0\CondicionalPositivo.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalPositivo\obj\Debug\net10.0\refint\CondicionalPositivo.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalPositivo\obj\Debug\net10.0\CondicionalPositivo.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalPositivo\obj\Debug\net10.0\CondicionalPositivo.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\CondicionalPositivo\obj\Debug\net10.0\ref\CondicionalPositivo.dll

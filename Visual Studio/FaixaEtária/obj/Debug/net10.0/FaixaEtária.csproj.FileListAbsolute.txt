@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FaixaEtária\bin\Debug\net10.0\FaixaEtária.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FaixaEtária\bin\Debug\net10.0\FaixaEtária.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FaixaEtária\bin\Debug\net10.0\FaixaEtária.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FaixaEtária\bin\Debug\net10.0\FaixaEtária.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FaixaEtária\bin\Debug\net10.0\FaixaEtária.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FaixaEtária\obj\Debug\net10.0\FaixaEtária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FaixaEtária\obj\Debug\net10.0\FaixaEtária.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FaixaEtária\obj\Debug\net10.0\FaixaEtária.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FaixaEtária\obj\Debug\net10.0\FaixaEtária.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FaixaEtária\obj\Debug\net10.0\FaixaEtária.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FaixaEtária\obj\Debug\net10.0\refint\FaixaEtária.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FaixaEtária\obj\Debug\net10.0\FaixaEtária.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FaixaEtária\obj\Debug\net10.0\FaixaEtária.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\TÉCNICO\P.A.L\Visual Studio\FaixaEtária\obj\Debug\net10.0\ref\FaixaEtária.dll

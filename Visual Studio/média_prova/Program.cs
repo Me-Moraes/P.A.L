@@ -1,0 +1,16 @@
+﻿string na;
+double p1, p2, t1, t2, le, nf;
+Console.WriteLine("Digite o nome do aluno(a)");
+na = Console.ReadLine();
+Console.WriteLine("Digite a nota da 1º prova");
+p1 = double.Parse(Console.ReadLine());
+Console.WriteLine("Digite a nota da 2º prova");
+p2 = double.Parse(Console.ReadLine());
+Console.WriteLine("Digite a nota da 1º trabalho");
+t1 = double.Parse(Console.ReadLine());
+Console.WriteLine("Digite a nota da 2º trabalho");
+t2 = double.Parse(Console.ReadLine());
+Console.WriteLine("Digite a nota da lista de exercícios");
+le = double.Parse(Console.ReadLine());
+nf = (p1 + p2 + t1 + t1 + le)/5;
+Console.WriteLine("a nota final de " + na + " Foi " + nf);

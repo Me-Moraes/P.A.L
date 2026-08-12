@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Hipotenusa\bin\Debug\net10.0\Hipotenusa.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Hipotenusa\bin\Debug\net10.0\Hipotenusa.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Hipotenusa\bin\Debug\net10.0\Hipotenusa.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Hipotenusa\bin\Debug\net10.0\Hipotenusa.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Hipotenusa\bin\Debug\net10.0\Hipotenusa.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Hipotenusa\obj\Debug\net10.0\Hipotenusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Hipotenusa\obj\Debug\net10.0\Hipotenusa.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Hipotenusa\obj\Debug\net10.0\Hipotenusa.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Hipotenusa\obj\Debug\net10.0\Hipotenusa.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Hipotenusa\obj\Debug\net10.0\Hipotenusa.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Hipotenusa\obj\Debug\net10.0\refint\Hipotenusa.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Hipotenusa\obj\Debug\net10.0\Hipotenusa.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Hipotenusa\obj\Debug\net10.0\Hipotenusa.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\P.A.L\Visual Studio\Hipotenusa\obj\Debug\net10.0\ref\Hipotenusa.dll

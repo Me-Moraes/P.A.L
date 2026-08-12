@@ -1,0 +1,10 @@
+﻿string np;
+double t, qc, pu;
+Console.WriteLine("Escreva o nome do produto: ");
+np = Console.ReadLine();
+Console.WriteLine("Digite a quantidade comprada: ");
+qc = double.Parse(Console.ReadLine());
+Console.WriteLine("digite o preço unitário: ");
+pu = double.Parse(Console.ReadLine());
+t = qc * pu;
+Console.WriteLine("O total da compra de " + np + ", é " + t);

@@ -1,0 +1,10 @@
+﻿string np;
+double qc, qm, qe;
+Console.WriteLine("Escreva o nome do produto: ");
+np = Console.ReadLine();
+Console.WriteLine("Digite a quantidade máxima");
+qm = double.Parse(Console.ReadLine());
+Console.WriteLine("Digite a quantidade em estoque");
+qe = double.Parse(Console.ReadLine());
+qc = qm - qe;
+Console.WriteLine("A quantidade a comprar é " + qc);
