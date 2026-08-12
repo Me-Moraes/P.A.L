@@ -1,0 +1,8 @@
+dir
+cd documents
+cd ams-ds1
+cd técnico
+cd P.A.L (Ou PW1, PTIC, SE e BD 1)
+git add .
+git commit -m "Descri commit"
+git push
