@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 18\For exer 18\bin\Debug\net10.0\For exer 18.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 18\For exer 18\bin\Debug\net10.0\For exer 18.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 18\For exer 18\bin\Debug\net10.0\For exer 18.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 18\For exer 18\bin\Debug\net10.0\For exer 18.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 18\For exer 18\bin\Debug\net10.0\For exer 18.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 18\For exer 18\obj\Debug\net10.0\For exer 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 18\For exer 18\obj\Debug\net10.0\For exer 18.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 18\For exer 18\obj\Debug\net10.0\For exer 18.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 18\For exer 18\obj\Debug\net10.0\For exer 18.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 18\For exer 18\obj\Debug\net10.0\For exer 18.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 18\For exer 18\obj\Debug\net10.0\For exer 18.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 18\For exer 18\obj\Debug\net10.0\refint\For exer 18.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 18\For exer 18\obj\Debug\net10.0\For exer 18.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 18\For exer 18\obj\Debug\net10.0\For exer 18.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 18\For exer 18\obj\Debug\net10.0\ref\For exer 18.dll

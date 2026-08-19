@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 14\For exer 14\bin\Debug\net10.0\For exer 14.exe
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 14\For exer 14\bin\Debug\net10.0\For exer 14.deps.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 14\For exer 14\bin\Debug\net10.0\For exer 14.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 14\For exer 14\bin\Debug\net10.0\For exer 14.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 14\For exer 14\bin\Debug\net10.0\For exer 14.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 14\For exer 14\obj\Debug\net10.0\For exer 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 14\For exer 14\obj\Debug\net10.0\For exer 14.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 14\For exer 14\obj\Debug\net10.0\For exer 14.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 14\For exer 14\obj\Debug\net10.0\For exer 14.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 14\For exer 14\obj\Debug\net10.0\For exer 14.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 14\For exer 14\obj\Debug\net10.0\For exer 14.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 14\For exer 14\obj\Debug\net10.0\refint\For exer 14.dll
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 14\For exer 14\obj\Debug\net10.0\For exer 14.pdb
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 14\For exer 14\obj\Debug\net10.0\For exer 14.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\AMS-DS1\técnico\P.A.L\Visual Studio\For exer 14\For exer 14\obj\Debug\net10.0\ref\For exer 14.dll
